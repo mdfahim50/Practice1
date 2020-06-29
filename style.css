@@ -1,0 +1,21 @@
+.h1tag{
+    margin: 10px 25px;
+    padding-right: 30%;
+    padding-left: 30%;
+    text-align: center;
+
+}
+
+h1{
+    background-color: brown;
+    color: antiquewhite;
+    font-weight: 1500;
+    padding: 10%;
+}
+
+.para1{
+    color: coral;
+    background-color: darkgreen;
+    font-size: 30px;
+    text-align: center;
+}
